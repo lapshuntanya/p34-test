@@ -3,4 +3,5 @@ struct Date{
 	int month = 0;
 	int year = 0;
 
+void showDate();
 };
